@@ -36,7 +36,7 @@ public class SupernovaPortlet extends GenericPortlet {
 
 		PrintWriter printWriter = renderResponse.getWriter();
 
-		printWriter.print("supernova Portlet - Hello World!");
+		printWriter.print("supernova Portlet - Jenkins!");
 	}
 
 }
