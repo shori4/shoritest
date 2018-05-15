@@ -36,7 +36,7 @@ public class GalaxyPortlet extends GenericPortlet {
 
 		PrintWriter printWriter = renderResponse.getWriter();
 
-		printWriter.print("galaxy Portlet - Hello World!");
+		printWriter.print("galaxy Portlet - Hello Galaxy!");
 	}
 
 }
